@@ -1,0 +1,58 @@
+.item_infor {
+    font-size: 14px;
+    padding: 10px 0px;
+}
+
+.item_infor .tools {
+    text-align: right;
+    cursor: pointer;
+}
+
+.input_update {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #eee;
+    padding: 0px;
+}
+
+.input_update:hover {
+    border: none;
+    border-bottom: 1px solid #eee;
+}
+
+.input_update:focus {
+    border: none;
+    box-shadow: none;
+    border-bottom: 1px solid #eee;
+}
+
+.select_update {
+    border: 0px;
+    outline: none;
+}
+
+.tags_item_infor {
+    padding: 0px;
+}
+
+.box_item {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 4%);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box_item .button_delete_item {
+    outline: none;
+    border: none;
+}
+
+.box_item .button_delete_item:focus {
+    border: none;
+    box-shadow: none;
+}
+
+.add_new_word {
+    width: 100%;
+}

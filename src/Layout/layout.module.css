@@ -1,0 +1,16 @@
+.logo {
+    padding: 14px 24px;
+    border-bottom: 1px solid #eee;
+}
+
+.ant-layout-content {
+    padding: 20px 40px;
+}
+
+.button_create_tag {
+    color: inherit;
+}
+
+.button_create_tag:hover {
+    color: #000;
+}

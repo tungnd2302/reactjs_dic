@@ -1,0 +1,9 @@
+.meaning {
+    font-size: 12px;
+    padding: 0px 7px;
+    margin-top: 10px;
+}
+
+.deep_1 {
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 4%);
+}

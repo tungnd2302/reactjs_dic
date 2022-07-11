@@ -1,0 +1,3 @@
+export const FETCH_DICTS_SUCCESS = "FETCH_DICTS_SUCCESS";
+export const FETCH_DICTS         = "FETCH_DICTS";
+export const FETCH_DICTS_FAIL    = "FETCH_DICTS_FAIL";
